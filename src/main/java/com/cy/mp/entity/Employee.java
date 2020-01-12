@@ -2,7 +2,7 @@ package com.cy.mp.entity;
 
 
 public class Employee {
-    private String name;
+    private String name="王五";
     private Integer age;
 
     public String getName() {
