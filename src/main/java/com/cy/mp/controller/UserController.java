@@ -16,9 +16,9 @@ public class UserController {
     public Map list(){
 
         Map<Object, Object> map = new HashMap<>();
-        map.put("name","张三");
-        map.put("age",18);
-        map.put("email","zhangsan@qq.com");
+        map.put("name","李四");
+        map.put("age",20);
+        map.put("email","lisi@qq.com");
         return map;
     }
 }
